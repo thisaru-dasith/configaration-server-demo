@@ -21,4 +21,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 
-spring.message = "hello world"
+message: hello world
