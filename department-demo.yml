@@ -21,4 +21,4 @@ eureka:
       defaultZone: http://localhost:8761/eureka/
 
 service:
-  message: i am thisaru dasith
+  message: department
