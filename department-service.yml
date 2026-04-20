@@ -3,6 +3,7 @@ server:
 spring:
   application:
     name: department-service
+  message: thisaru dasith
 
   datasource:
     url: jdbc:mysql://localhost:3306/department_demo_1?createDatabaseIfNotExist=true
